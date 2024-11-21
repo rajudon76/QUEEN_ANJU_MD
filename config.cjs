@@ -1,7 +1,6 @@
 module.exports = {
   "ALIVE_IMG": "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
   "PREFIX": ".",
-  "SESSION_ID" ANJU-MD=6YkT1DJT#j-i4LnPDwwpRor5vjRh5dbV-urleLYLxp_7RztwU53o,
   "AUTO_READ_STATUS": false,
   "MODE": "private",
   "BOT_NUMBER": "923071782626",
